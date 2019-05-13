@@ -17,18 +17,16 @@ Esta versão é construída com arduíno e motor DC.
 Corte a Laser:
 * Uma chapa perfurada de 8x7 furos, 
 
-### Partes Eletrônica
-* Sensor para Seguidor de Linha De TCRT5000 Infravermelho IR Obstáculo Avoidanc Módulo, https://s.click.aliexpress.com/e/yOcU2El
-* Sensor para Seguidor de Linha De TCRT5000 Infravermelho IR Obstáculo Avoidanc Módulo
-* SG90 9G Micro Servo Motor Para 6CH RC Helicóptero Robô Controles do Avião para Arduino
-* HC-SR04 Ultrasonic Módulo Distância de Medição do Sensor Ultrassônico HCSR04 Board para PICAXE Microcontrolador UNO Arduino HC SR04
-* 20 CM 40 P DuPont cabo fêmea-fêmea para cabo da placa Universal
-* Rodízio Da Roda Universal Eye Bola Esfera de Aço Redonda de Metal Rodas Omni roda do Rodízio da Roda Para RC Modelo de Robô 
-* Carro Inteligente Robô Parte
+## Partes Eletrônica
+* Sensor para Seguidor de Linha, Módulo TCRT5000 , https://s.click.aliexpress.com/e/yOcU2El
+* SG90 9G Micro Servo Motor, 
+* HC-SR04 Sensor Ultrassônico HCSR04, 
+* 20 CM 40 P DuPont cabo fêmea-fêmea, jumpers
+* Roda Universal com esfera de aço, roda boba 
 * Arduino UNO UNO R3 + CABO USB
-* V5.0 Sensor Escudo placa de expansão para arduino blocos de construção eletrônica robô acessórios V5 Blindagem Do Sensor placa de expansão
-* Engrenagem TT Motor Smart Car Robot Motor para arduino Diy Kit Rodas Chassis Do Carro Inteligente Robô de Controle Remoto Do * Motor Do Carro motor Da Engrenagem Da CC
-* 5V 1A 2x18650 Caixa de Bateria Caso Banco de Potência Com LED DIY Carregador Para Celular
-* 1 pcs L9110 L9110S DC Stepper Motor Driver Board H Bridge para arduino
-* Chassis perfurado cortado a laser, uma base e dois suportes 
+* Sensor _shield_  V5.0
+* Motor DC TT 
+* 5V 1A 2x18650 Caixa de Bateria, Carregador portátil para celular
+* Ponte H L9110, 
+* Chassis perfurado cortado a laser, 
 * Baterias 18650 3.7v 
