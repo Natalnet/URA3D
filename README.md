@@ -17,7 +17,7 @@ Esta versão é construída com arduíno e motor DC.
 Corte a Laser:
 * Uma chapa perfurada de 8x7 furos, 
 
-## Partes Eletrônica
+## Partes Eletrônicas
 * Sensor para Seguidor de Linha, Módulo TCRT5000 , https://s.click.aliexpress.com/e/yOcU2El
 * SG90 9G Micro Servo Motor, 
 * HC-SR04 Sensor Ultrassônico HCSR04, 
