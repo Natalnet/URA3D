@@ -15,7 +15,19 @@ Esta versão é construída com arduíno e motor DC.
 
 
 Corte a Laser:
-* Uma chapa perfurada de 8x7 furos, 
+* Uma chapa perfurada de 8x7 furos
+
+### Parafusos 
+
+* 6 M4 de 40 mm 
+* 3 M4 de 16 mm 
+* 2 M3 de 30 mm 
+* 4 M3 de 10 mm 
+* 2 M2 de 10 mm
+* 10 arruelas M4
+* 4 arruelas M3
+* 11 porcas M4
+* 6 porcas M3 
 
 ## Partes Eletrônicas
 * Sensor para Seguidor de Linha, Módulo TCRT5000 , https://s.click.aliexpress.com/e/yOcU2El
