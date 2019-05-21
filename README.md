@@ -12,6 +12,7 @@ Esta versão é construída com arduíno e motor DC.
 * 1 - Suporte Ponte H L9110, 
 * 1 - Suporte Ultrassom Fundo, https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20suporte%20ultrassom%20v4.stl
 * 1 - Suporte Ultrassom Frente, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20ultrassom%20frente%20v4.stl
+* 1 - Suporte Para Sensores de Linha, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20sensor%20de%20linha.stl
 
 
 Corte a Laser:
