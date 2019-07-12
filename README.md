@@ -43,3 +43,7 @@ Corte a Laser:
 * Ponte H L9110, https://pt.aliexpress.com/item/1pcs-L9110S-DC-Stepper-Motor-Driver-Board-H-Bridge-L9110-for-arduino-Free-Shipping-Dropshipping/32829839431.html
 * Chassis perfurado cortado a laser 
 * Baterias 18650 3.7v 
+
+## Planilha de Orçamento, 
+
+* Link para a planilha, https://docs.google.com/spreadsheets/d/1Ch_xic2FhgtGtEWeOpDz-r08s34TShb2ZZhRYrnJDhQ/edit?usp=sharing  
