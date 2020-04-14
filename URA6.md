@@ -3,7 +3,7 @@ Repositório de Peças 3D do URA
 
 ## Versão 6
 
-Esta versão é construída com arduíno e motor DC. 
+Esta versão é construída com ESP e motor DC. 
 
 ### Peças 3D: 
 * 1 - Suporte ESP Motor Shiel, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20shield%20nodemcu.stl
