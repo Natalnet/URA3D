@@ -8,11 +8,12 @@ Esta versão é construída com ESP e motor DC.
 ### Peças 3D: 
 * 1 - Suporte ESP Motor Shiel, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20shield%20nodemcu.stl
 * 2 - Suporte Motor DC, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20motor%20dc.stl
-* 4 - Espaçador M4, https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl
+* 1 - Suporte para roda boba, https://github.com/Natalnet/URA3D/blob/master/stable_stls/adaptador%20roda%20boba%20metal.stl
+* 6 - Espaçador M4, https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl
 * 1 - Suporte Ultrassom Fundo, https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20da%20caixa%20do%20ultrassom%20v6.stl
-* 1 - Caixa Ultrassom Frente, https://github.com/Natalnet/URA3D/blob/master/stable_stls/caixa%20utlrassom%203.3v.stl
+* 1 - Caixa Ultrassom Frente, https://github.com/Natalnet/URA3D/blob/master/stable_stls/caixa%20ultrassom%20v4%20frente%203.3v.stl
 * 1 - Suporte Para Sensores de Linha, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20sensor%20de%20linha%20com%20apoio%20central.stl 
-* Uma chapa perfurada de 7x7 furos, https://github.com/Natalnet/URA3D/blob/master/stable_stls/chapa%20furos%20geral%207x7%203mm.stl 
+* 1 - chapa perfurada de 7x7 furos, https://github.com/Natalnet/URA3D/blob/master/stable_stls/chapa%20furos%20geral%207x7%203mm.stl 
 
 ### Parafusos e complementares 
 
