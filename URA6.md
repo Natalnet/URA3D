@@ -5,6 +5,9 @@ Repositório de Peças 3D do URA
 
 Esta versão é construída com ESP e motor DC. 
 
+![Imagem frontal do Robô URA 6](https://github.com/Natalnet/URA3D/blob/master/IMG_20200508_113627.jpg )
+![Imagem frontal do Robô URA 6](https://github.com/Natalnet/URA3D/blob/master/IMG_20200508_113720.jpg )
+
 ### Peças 3D: 
 * 1 - Suporte ESP Motor Shiel, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20shield%20nodemcu.stl
 * 2 - Suporte Motor DC, https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20motor%20dc.stl
