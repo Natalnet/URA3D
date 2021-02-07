@@ -5,8 +5,8 @@ Repositório de Peças 3D do URA e especificações básicas
 
 Esta versão é construída com ESP e motor DC. 
 
-![Imagem frontal do Robô URA 6](https://github.com/Natalnet/URA3D/blob/master/IMG_20200508_113627.jpg )
-![Imagem lateral do Robô URA 6](https://github.com/Natalnet/URA3D/blob/master/IMG_20200508_113720.jpg )
+![Imagem frontal do Robô URA 7](imagens/ura_7_a.jpg )
+![Imagem lateral do Robô URA 7](imagens/ura_7_b.jpg )
 
 ### Peças 3D 
 
