@@ -45,9 +45,9 @@ Esta versão é construída com ESP e motor DC.
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 24,00 |
 | Despesas com envio (valor aproximado) | ? | 40,00 | 
 
-O total por robô deve ficar em torno de: 
+O **total** por robô deve ficar em torno de: 122,00 
 
-Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. Uma estratégia é comprar o máximo possível de uma mesma loja ou usar o envio com " AliExpress Direct". 
+Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. Uma estratégia é comprar o máximo possível de uma mesma loja ou usar o envio "AliExpress Direct". 
 
 
 
