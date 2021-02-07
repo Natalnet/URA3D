@@ -11,14 +11,14 @@ Esta versão é construída com ESP e motor DC.
 ### Peças 3D 
 
 #### Básico: 
-* 1 - [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
-* 1 - [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
-* 2 - [Suporte Motor DC](https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20motor%20dc.stl)
-* 1 - [Suporte para roda esferica de metal - roda boba](https://github.com/Natalnet/URA3D/blob/master/stable_stls/adaptador%20roda%20boba%20metal.stl)
-* 5 - [Espaçador M4](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
-* 1 - [Chapa perfurada de 7x7 furos](https://github.com/Natalnet/URA3D/blob/master/stable_stls/chapa%20furos%20de%203mm%20com%207x7.stl)
-* 1 - [Apoio para baterias](https://github.com/Natalnet/URA3D/blob/master/stable_stls/Protecao%20bateria.stl) 
-* 2 - [Rodas de 54 mm de diâmetro](https://github.com/Natalnet/URA3D/blob/master/stable_stls/roda%2054%20mm.stl)  
+* 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
+* 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
+* 2 x [Suporte Motor DC](https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20motor%20dc.stl)
+* 1 x [Suporte para roda esferica de metal - roda boba](https://github.com/Natalnet/URA3D/blob/master/stable_stls/adaptador%20roda%20boba%20metal.stl)
+* 5 x [Espaçador M4](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
+* 1 x [Chapa perfurada de 7x7 furos](https://github.com/Natalnet/URA3D/blob/master/stable_stls/chapa%20furos%20de%203mm%20com%207x7.stl)
+* 1 x [Apoio para baterias](https://github.com/Natalnet/URA3D/blob/master/stable_stls/Protecao%20bateria.stl) 
+* 2 x [Rodas de 54 mm de diâmetro](https://github.com/Natalnet/URA3D/blob/master/stable_stls/roda%2054%20mm.stl)  
 
 ### Parafusos e complementares 
 
@@ -41,9 +41,9 @@ Esta versão é construída com ESP e motor DC.
 | [Motor DC TT de 3 a 12v](https://pt.aliexpress.com/item/33031406669.html) | 2 | 12,00 | 
 | [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | 3,00 |
 | Borracha para Rodas do Motor DC TT | 2 | 5,00 | 
-| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria] (https://pt.aliexpress.com/item/33048736765.html) | 1 | 6,00 |
+| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33048736765.html) | 1 | 6,00 |
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 24,00 |
-| Despesas com envio (aproximado) | ? | 40,00 | 
+| Despesas com envio (valor aproximado) | ? | 40,00 | 
 
 O total por robô deve ficar em torno de: 
 
