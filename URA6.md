@@ -40,13 +40,15 @@ Esta versão é construída com ESP e motor DC.
 * Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria, https://pt.aliexpress.com/item/32872817660.html  
 * Baterias 18650 3.7v, https://produto.mercadolivre.com.br/MLB-896867271-kit-20-baterias-18650-4200mah-37v-lanterna-tatica-led-_JM   
 
+## Alguns Códigos
+Códigos usadados para testar algumas partes do robô: 
+* [Teste de Sensor Ultrassônico](https://github.com/Natalnet/lib_ura_esp/tree/master/devs/UltrassonicTest) 
+* [Teste de Seguidor de Linha](https://github.com/Natalnet/lib_ura_esp/blob/master/devs/LineSensor/seguidor_de_linha.py)
+* [Teste Servo Motor](https://github.com/Natalnet/lib_ura_esp/tree/master/devs/ClassServoTest) 
+* [Teste Desvio de Obstáculos](https://github.com/Natalnet/lib_ura_esp/blob/master/devs/ObstacleAvoidanceMotorShield/main.py) 
+
 ## Planilha de Orçamento, 
-
-* Link para a planilha, https://docs.google.com/spreadsheets/d/1k4HVmAFGt7exS0U8s_NbgQpYw_mHULvpd0Q-GWnIZSM/edit?usp=sharing 
-
-
-
-
+* Link para a planilha (Última atualização em março de 2020), https://docs.google.com/spreadsheets/d/1k4HVmAFGt7exS0U8s_NbgQpYw_mHULvpd0Q-GWnIZSM/edit?usp=sharing 
 
 
 
