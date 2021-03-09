@@ -54,6 +54,8 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 
 * [URA: Como controlar motores DC com MicroPython e ESP](https://youtu.be/Zrb4ya5w_Og)
 * [IoT: Como gravar o firmware MicroPython no ESP?](https://youtu.be/F11Zw-0OYhw)
+* [Controlando um robô de qualquer lugar do mundo](https://youtu.be/kUujN_RainY)
+* [Controlando vários robôs do URA ao mesmo tempo](https://youtu.be/dd7foZvS9JI)
 
 
 
