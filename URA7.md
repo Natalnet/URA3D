@@ -50,6 +50,17 @@ O **total** por robô deve ficar em torno de: 122,00
 Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. Uma estratégia é comprar o máximo possível de uma mesma loja ou usar o envio "AliExpress Direct". 
 
 
+## Vídeos 
+
+* [URA: Como controlar motores DC com MicroPython e ESP](https://youtu.be/Zrb4ya5w_Og)
+* [IoT: Como gravar o firmware MicroPython no ESP?](https://youtu.be/F11Zw-0OYhw)
+* [Controlando um robô de qualquer lugar do mundo](https://youtu.be/kUujN_RainY)
+* [Controlando vários robôs do URA ao mesmo tempo](https://youtu.be/dd7foZvS9JI)
+
+
+
+
+
 
 
 
