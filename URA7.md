@@ -12,7 +12,7 @@ Esta versão é construída com ESP e motor DC.
 
 #### Básico: 
 * 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
-* 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
+* 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20suporte%20esp32.stl) 
 * 2 x [Suporte Motor DC](https://github.com/Natalnet/URA3D/blob/master/stable_stls/suporte%20motor%20dc.stl)
 * 1 x [Suporte para roda esferica de metal - roda boba](https://github.com/Natalnet/URA3D/blob/master/stable_stls/adaptador%20roda%20boba%20metal.stl)
 * 5 x [Espaçador M4](https://github.com/Natalnet/URA3D/blob/master/stable_stls/espacador%20com%20porca.stl) 
