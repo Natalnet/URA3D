@@ -5,16 +5,17 @@ Repositório de Peças 3D do URA e especificações básicas
 
 Esta versão é construída com ESP32, motor DC e ponte H L9110. 
 
-
+![IMG_20211005_220235](https://user-images.githubusercontent.com/19957124/136124638-ddeedd21-5521-4419-a293-521bda014fcc.jpg)
 
 ### Peças 3D 
+
 
 #### Básico: 
 * 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
 * 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20suporte%20esp32.stl) 
 * 1 x [Suporte L9110](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20L9110.stl)
 * 1 x [Tampa L9110](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20L9110%20tampa.stl) 
-* 4 x [Suporte Motor DC v4]https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20motor%20dc%20v4.stl)
+* 4 x [Suporte Motor DC v4](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20motor%20dc%20v4.stl)
 * 1 x [Chassis URA](https://github.com/Natalnet/URA3D/blob/master/dev_stls/base%20ura%20iot%20furo.stl) 
 * 1 x [Apoio para baterias](https://github.com/Natalnet/URA3D/blob/master/stable_stls/Protecao%20bateria.stl) 
 * 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20a.stl) 
