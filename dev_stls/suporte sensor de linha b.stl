@@ -1130,12 +1130,12 @@ solid Onshape
     outer loop
       vertex -6 18 5
       vertex -6 24 5
-      vertex -6 24 8.3
+      vertex -6 24 8.7
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex -6 -18 8.3
+      vertex -6 -18 8.7
       vertex -6 -18 4
       vertex -6 -14 5
     endloop
@@ -1185,34 +1185,34 @@ solid Onshape
   facet normal 1 0 0
     outer loop
       vertex -6 18 5
-      vertex -6 24 8.3
+      vertex -6 24 8.7
       vertex -6 12 5
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
       vertex -6 12 5
-      vertex -6 24 8.3
+      vertex -6 24 8.7
       vertex -6 6 5
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex -6 24 8.3
-      vertex -6 -18 8.3
+      vertex -6 24 8.7
+      vertex -6 -18 8.7
       vertex -6 6 5
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
       vertex -6 6 5
-      vertex -6 -18 8.3
+      vertex -6 -18 8.7
       vertex -6 -12 5
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex -6 -18 8.3
+      vertex -6 -18 8.7
       vertex -6 -14 5
       vertex -6 -12 5
     endloop
@@ -1563,14 +1563,14 @@ solid Onshape
   facet normal 0 -1 0
     outer loop
       vertex 7 -18 4
-      vertex 7 -18 8.3
+      vertex 7 -18 8.7
       vertex 6 -18 4
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex 7 -18 8.3
-      vertex 6 -18 8.3
+      vertex 7 -18 8.7
+      vertex 6 -18 8.7
       vertex 6 -18 4
     endloop
   endfacet
@@ -2963,14 +2963,14 @@ solid Onshape
   facet normal 0 -1 0
     outer loop
       vertex -6 -18 4
-      vertex -6 -18 8.3
+      vertex -6 -18 8.7
       vertex -7 -18 4
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -6 -18 8.3
-      vertex -7 -18 8.3
+      vertex -6 -18 8.7
+      vertex -7 -18 8.7
       vertex -7 -18 4
     endloop
   endfacet
@@ -4615,21 +4615,21 @@ solid Onshape
   facet normal 0 -1 0
     outer loop
       vertex 6 24 5
-      vertex 6 24 8.3
+      vertex 6 24 8.7
       vertex -6 24 5
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex 6 24 8.3
-      vertex -6 24 8.3
+      vertex 6 24 8.7
+      vertex -6 24 8.7
       vertex -6 24 5
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex 7 25 8.3
-      vertex 7 -18 8.3
+      vertex 7 25 8.7
+      vertex 7 -18 8.7
       vertex 7 -18 4
     endloop
   endfacet
@@ -4707,19 +4707,19 @@ solid Onshape
     outer loop
       vertex 7 -18 4
       vertex 7 -14 0
-      vertex 7 25 8.3
+      vertex 7 25 8.7
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
       vertex 7 -14 0
       vertex 7 24 0
-      vertex 7 25 8.3
+      vertex 7 25 8.7
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex 7 25 8.3
+      vertex 7 25 8.7
       vertex 7 24 0
       vertex 7 25 1
     endloop
@@ -5237,14 +5237,14 @@ solid Onshape
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 6 -18 8.3
-      vertex 6 24 8.3
+      vertex 6 -18 8.7
+      vertex 6 24 8.7
       vertex 6 18 5
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 6 24 8.3
+      vertex 6 24 8.7
       vertex 6 24 5
       vertex 6 18 5
     endloop
@@ -5260,7 +5260,7 @@ solid Onshape
     outer loop
       vertex 6 -12 5
       vertex 6 -14 5
-      vertex 6 -18 8.3
+      vertex 6 -18 8.7
     endloop
   endfacet
   facet normal -1 0 0
@@ -5273,20 +5273,20 @@ solid Onshape
   facet normal -1 0 0
     outer loop
       vertex 6 -12 5
-      vertex 6 -18 8.3
+      vertex 6 -18 8.7
       vertex 6 6 5
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
       vertex 6 6 5
-      vertex 6 -18 8.3
+      vertex 6 -18 8.7
       vertex 6 12 5
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 6 -18 8.3
+      vertex 6 -18 8.7
       vertex 6 18 5
       vertex 6 12 5
     endloop
@@ -5344,14 +5344,14 @@ solid Onshape
     outer loop
       vertex 6 -14 5
       vertex 6 -18 4
-      vertex 6 -18 8.3
+      vertex 6 -18 8.7
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 6 -14 5
       vertex 6 -14 0
       vertex 6 -14.4181 0.0219124
+      vertex 6 -14 5
     endloop
   endfacet
   facet normal -1 0 0
@@ -5363,6 +5363,20 @@ solid Onshape
   endfacet
   facet normal -1 0 0
     outer loop
+      vertex 6 -16 0.535898
+      vertex 6 -16.3511 0.763932
+      vertex 6 -14 5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 6 -16.3511 0.763932
+      vertex 6 -16.6765 1.02742
+      vertex 6 -14 5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
       vertex 6 -14.8316 0.0874096
       vertex 6 -15.2361 0.195774
       vertex 6 -14 5
@@ -5370,30 +5384,16 @@ solid Onshape
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 6 -14 5
       vertex 6 -15.2361 0.195774
       vertex 6 -15.6269 0.345818
+      vertex 6 -14 5
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
+      vertex 6 -14 5
       vertex 6 -15.6269 0.345818
       vertex 6 -16 0.535898
-      vertex 6 -14 5
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-      vertex 6 -16 0.535898
-      vertex 6 -16.3511 0.763932
-      vertex 6 -14 5
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-      vertex 6 -14 5
-      vertex 6 -16.3511 0.763932
-      vertex 6 -16.6765 1.02742
     endloop
   endfacet
   facet normal -1 0 0
@@ -5629,44 +5629,44 @@ solid Onshape
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 6 -18 8.3
-      vertex 7 -18 8.3
-      vertex 6 24 8.3
+      vertex 6 -18 8.7
+      vertex 7 -18 8.7
+      vertex 6 24 8.7
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 7 -18 8.3
-      vertex 7 25 8.3
-      vertex 6 24 8.3
+      vertex 7 -18 8.7
+      vertex 7 25 8.7
+      vertex 6 24 8.7
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 6 24 8.3
-      vertex 7 25 8.3
-      vertex -6 24 8.3
+      vertex 6 24 8.7
+      vertex 7 25 8.7
+      vertex -6 24 8.7
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 7 25 8.3
-      vertex -7 25 8.3
-      vertex -6 24 8.3
+      vertex 7 25 8.7
+      vertex -7 25 8.7
+      vertex -6 24 8.7
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex -6 24 8.3
-      vertex -7 25 8.3
-      vertex -6 -18 8.3
+      vertex -6 24 8.7
+      vertex -7 25 8.7
+      vertex -6 -18 8.7
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex -7 25 8.3
-      vertex -7 -18 8.3
-      vertex -6 -18 8.3
+      vertex -7 25 8.7
+      vertex -7 -18 8.7
+      vertex -6 -18 8.7
     endloop
   endfacet
   facet normal 0 -1 0
@@ -5693,14 +5693,14 @@ solid Onshape
   facet normal 0 1 0
     outer loop
       vertex -7 25 1
-      vertex -7 25 8.3
+      vertex -7 25 8.7
       vertex 7 25 1
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -7 25 8.3
-      vertex 7 25 8.3
+      vertex -7 25 8.7
+      vertex 7 25 8.7
       vertex 7 25 1
     endloop
   endfacet
@@ -5750,7 +5750,7 @@ solid Onshape
     outer loop
       vertex -7 24 0
       vertex -7 -14 0
-      vertex -7 -18 8.3
+      vertex -7 -18 8.7
     endloop
   endfacet
   facet normal -1 0 0
@@ -5771,19 +5771,19 @@ solid Onshape
     outer loop
       vertex -7 -14 0
       vertex -7 -18 4
-      vertex -7 -18 8.3
+      vertex -7 -18 8.7
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -7 -18 8.3
-      vertex -7 25 8.3
+      vertex -7 -18 8.7
+      vertex -7 25 8.7
       vertex -7 24 0
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -7 25 8.3
+      vertex -7 25 8.7
       vertex -7 25 1
       vertex -7 24 0
     endloop
