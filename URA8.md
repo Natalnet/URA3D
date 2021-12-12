@@ -10,7 +10,7 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 ### Peças 3D 
 
 
-#### Básico: 
+#### STLs: 
 * 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
 * 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20suporte%20esp32.stl) 
 * 1 x [Suporte L9110](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20L9110.stl)
@@ -21,6 +21,9 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20a.stl) 
 * 2 x [Suporte sensor de linha - parte B](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20b.stl) 
  
+#### Editaveis no OnShape
+
+* [Suporte Motor DC v4](https://cad.onshape.com/documents/e45ec81d3bc0cc02ca7d5bac/w/183fa68e8e2792a1392ef014/e/ab767c6f52bd8553d3f916f6?renderMode=0&uiState=61b641b87b27916e0368c391)
 
 ### Parafusos e complementares 
 
