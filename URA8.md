@@ -11,20 +11,19 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 
 
 #### STLs: 
-* 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20esp32.stl)
-* 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/tampa%20suporte%20esp32.stl) 
-* 1 x [Suporte L9110](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20L9110.stl)
-* 1 x [Tampa L9110](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20L9110%20tampa.stl) 
-* 4 x [Suporte Motor DC v4](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20motor%20dc%20v4.stl)
-* 1 x [Chassis URA](https://github.com/Natalnet/URA3D/blob/master/dev_stls/base%20ura%20iot%20furo.stl) 
-* 1 x [Apoio para baterias](https://github.com/Natalnet/URA3D/blob/master/stable_stls/Protecao%20bateria.stl) 
-* 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20a.stl) 
-* 2 x [Suporte sensor de linha - parte B](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20b.stl) 
-* 1 x [Caixa ultrassom]
-* 1 x [Tampa da caixa do ultrassom]
+* 1 x [Suporte ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20esp32.stl)
+* 1 x [Tampa para ESP32](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20esp32.stl) 
+* 1 x [Base do suporte L9110](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/base%20suporte%20L9110.stl)
+* 1 x [Topo do suporte L9110](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/topo%20suporte%20L9110.stl) 
+* 4 x [Suporte Motor DC v4](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20motor.stl)
+* 1 x [Chassis URA](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/chassis.stl) 
+* 1 x [Apoio para baterias](???) 
+* 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20sensor%20de%20linha%20parte%20a.stl) 
+* 2 x [Suporte sensor de linha - parte B](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20sensor%20de%20linha%20parte%20b.stl) 
+* 1 x [Caixa ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/caixa%20ultrassom.stl)
+* 1 x [Tampa da caixa do ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20da%20caixa%20do%20ultrassom.stl)
  
 #### Editaveis no OnShape
-
 * [Suporte ESP32](https://cad.onshape.com/documents/da2893e39737269eabcc538f/w/f65fd3e3db945192bb0506ee/e/0dc5e1f2a7eb1b9047fb6555?renderMode=0&uiState=61c1ec8e94f3596b0a02fad9)
 * [Tampa para ESP32](https://cad.onshape.com/documents/da2893e39737269eabcc538f/w/f65fd3e3db945192bb0506ee/e/f0a40e6744258405f1235c48?renderMode=0&uiState=61c1ed1e94f3596b0a02fcc6)
 * [Suporte L9110](https://cad.onshape.com/documents/0645b71dd36fa9041955fe5c/w/5c01c6e7de2fd9529bc1bde8/e/e7a438fc2833281217db6045?renderMode=0&uiState=61c1eddd3476d60572ef6be0)
@@ -36,7 +35,6 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * [Tampa da caixa do ultrassom](https://cad.onshape.com/documents/69c19290b47989f6532ec43b/w/113850079f3eb17f24106091/e/c47433a3bffd45538d53acae?renderMode=0&uiState=61c1e8233f65835bbfea031d)
 
 ### Parafusos e complementares 
-
 * 8 M4 de 12 mm 
 * 4 M3 de 30 mm  
 * 2 M3 de 10 mm  
