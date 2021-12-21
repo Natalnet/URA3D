@@ -20,10 +20,20 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * 1 x [Apoio para baterias](https://github.com/Natalnet/URA3D/blob/master/stable_stls/Protecao%20bateria.stl) 
 * 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20a.stl) 
 * 2 x [Suporte sensor de linha - parte B](https://github.com/Natalnet/URA3D/blob/master/dev_stls/suporte%20sensor%20de%20linha%20b.stl) 
+* 1 x [Caixa ultrassom]
+* 1 x [Tampa da caixa do ultrassom]
  
 #### Editaveis no OnShape
 
-* [Suporte Motor DC v4](https://cad.onshape.com/documents/e45ec81d3bc0cc02ca7d5bac/w/183fa68e8e2792a1392ef014/e/ab767c6f52bd8553d3f916f6?renderMode=0&uiState=61b641b87b27916e0368c391)
+* [Suporte ESP32](https://cad.onshape.com/documents/da2893e39737269eabcc538f/w/f65fd3e3db945192bb0506ee/e/0dc5e1f2a7eb1b9047fb6555?renderMode=0&uiState=61c1ec8e94f3596b0a02fad9)
+* [Tampa para ESP32](https://cad.onshape.com/documents/da2893e39737269eabcc538f/w/f65fd3e3db945192bb0506ee/e/f0a40e6744258405f1235c48?renderMode=0&uiState=61c1ed1e94f3596b0a02fcc6)
+* [Suporte L9110](https://cad.onshape.com/documents/0645b71dd36fa9041955fe5c/w/5c01c6e7de2fd9529bc1bde8/e/e7a438fc2833281217db6045?renderMode=0&uiState=61c1eddd3476d60572ef6be0)
+* [Tampa L9110](https://cad.onshape.com/documents/0645b71dd36fa9041955fe5c/w/5c01c6e7de2fd9529bc1bde8/e/ae64064c4143f9ef8f443d6e?renderMode=0&uiState=61c1ee403476d60572ef6c8e)
+* [Suporte Motor DC](https://cad.onshape.com/documents/e45ec81d3bc0cc02ca7d5bac/w/183fa68e8e2792a1392ef014/e/ab767c6f52bd8553d3f916f6?renderMode=0&uiState=61b641b87b27916e0368c391)
+* [Suporte sensor de linha parte a](https://cad.onshape.com/documents/e259ff6defdef96e8ab41d8b/w/1b109841c4d9736a1870dfb0/e/350295baa946ced05d467425?renderMode=0&uiState=61c1ea3bbb05c5165f0a459c)
+* [Suporte sensor de linha parte b](https://cad.onshape.com/documents/e259ff6defdef96e8ab41d8b/w/1b109841c4d9736a1870dfb0/e/cd690e71fe9f9e5f9f80e279?renderMode=0&uiState=61c1ea85bb05c5165f0a46c1)
+* [Caixa ultrassom](https://cad.onshape.com/documents/eff211665e8c7836090196e9/w/b42c08b0b75a4629edf96235/e/b35db6d97b250042e3331039?renderMode=0&uiState=61c1e8ba3476d60572ef5c09)
+* [Tampa da caixa do ultrassom](https://cad.onshape.com/documents/69c19290b47989f6532ec43b/w/113850079f3eb17f24106091/e/c47433a3bffd45538d53acae?renderMode=0&uiState=61c1e8233f65835bbfea031d)
 
 ### Parafusos e complementares 
 
