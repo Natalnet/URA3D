@@ -4,8 +4,9 @@ Repositório de Peças 3D do URA e especificações básicas
 ## Versão 8
 
 Esta versão é construída com ESP32, motor DC e ponte H L9110. 
+![IMG_20220118_153607](https://user-images.githubusercontent.com/19957124/151552750-39eee4a2-b9bc-454f-b2bc-c4ee48d014f1.jpg)
 
-![IMG_20211005_220235](https://user-images.githubusercontent.com/19957124/136124638-ddeedd21-5521-4419-a293-521bda014fcc.jpg)
+
 
 ### Peças 3D 
 
@@ -74,7 +75,12 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 * [Controlando um robô de qualquer lugar do mundo](https://youtu.be/kUujN_RainY)
 * [Controlando vários robôs do URA ao mesmo tempo](https://youtu.be/dd7foZvS9JI)
 
+## Mais fotos 
 
+![IMG_20220118_153748](https://user-images.githubusercontent.com/19957124/151553109-ad303cdf-7860-4b9b-a59e-0763cf77f7f5.jpg)
+![IMG_20220118_153718](https://user-images.githubusercontent.com/19957124/151553139-61bc8037-558f-40ad-805b-245ad1d8cb9a.jpg)
+![IMG_20220118_153527](https://user-images.githubusercontent.com/19957124/151553151-e24dca6d-e366-47b9-ab49-2fc9561ff498.jpg)
+![IMG_20211005_220235](https://user-images.githubusercontent.com/19957124/136124638-ddeedd21-5521-4419-a293-521bda014fcc.jpg)
 
 
 
