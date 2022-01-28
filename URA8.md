@@ -6,8 +6,6 @@ Repositório de Peças 3D do URA e especificações básicas
 Esta versão é construída com ESP32, motor DC e ponte H L9110. 
 ![IMG_20220118_153607](https://user-images.githubusercontent.com/19957124/151552750-39eee4a2-b9bc-454f-b2bc-c4ee48d014f1.jpg)
 
-
-
 ### Peças 3D 
 
 
@@ -37,12 +35,53 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * [Tampa da caixa do ultrassom](https://cad.onshape.com/documents/69c19290b47989f6532ec43b/w/113850079f3eb17f24106091/e/c47433a3bffd45538d53acae?renderMode=0&uiState=61c1e8233f65835bbfea031d)
 
 ### Parafusos e complementares 
+Entre motores, chassis e suporte ESP32
 * 8 M4 de 12 mm 
-* 4 M3 de 30 mm  
-* 2 M3 de 10 mm  
-* 2 M3 de 6 mm   
-* 12 porcas M4 
-*  ?? 
+* 8 porcas M4 
+
+Entre chassis e suporte ultrassônico 
+* 1 M4 de 12 mm 
+* 1 porca M4
+* 1 arruela M4
+
+Suportes dos sensores de linha 
+* 2 M3 de 10 mm 
+* 2 porcas M3
+
+Entre chassis e suportes dos sensores de linha 
+* 2 M3 de 16 mm 
+* 2 porcas M3
+* 2 arruelas M3 
+
+Suporte dos motores 
+* 4 M3 de 23 mm 
+* 4 porcas M3
+
+Suporte L9110
+* 2 M3 de 10 mm 
+* 2 porcas M3
+
+Suporte ESP32
+* 2 M3 de 14 mm 
+* 2 porcas M3
+
+Chassis, suporte roda boba e placa 
+* 1 M4 de 16 mm 
+* 1 porca M4
+* 1 arruela M4
+
+Suporte ultrassônico 
+* 2 M2 de 5 mm de rosca soberba 
+
+Total geral
+* 9 M4 de 12 mm 
+* 9 porcas M4
+* 2 arruela M4
+* 1 M3 de 10 mm 
+* 1 porca M3
+* 1 arruela M3
+* 2 M2 de 5 mm de rosca soberba 
+* ???
 
 ## Partes Eletrônicas e Outras 
 | Link e Descrição | Qt. | Preço aproximado (R$) |
