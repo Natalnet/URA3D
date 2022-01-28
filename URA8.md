@@ -62,26 +62,29 @@ Suporte L9110
 * 2 porcas M3
 
 Suporte ESP32
-* 2 M3 de 14 mm 
+* 2 M3 de 16 mm 
 * 2 porcas M3
 
 Chassis, suporte roda boba e placa 
-* 1 M4 de 16 mm 
-* 1 porca M4
-* 1 arruela M4
+* 2 M4 de 16 mm 
+* 2 porca M4
+* 2 arruela M4
 
 Suporte ultrassônico 
 * 2 M2 de 5 mm de rosca soberba 
 
 Total geral
 * 9 M4 de 12 mm 
-* 9 porcas M4
-* 2 arruela M4
-* 1 M3 de 10 mm 
-* 1 porca M3
-* 1 arruela M3
+* 2 M4 de 16 mm 
+* 11 porcas M4
+* 3 arruelas M4
+* 4 M3 de 10 mm 
+* 4 M3 de 16 mm 
+* 4 M3 de 23 mm 
+* 12 porcas M3
+* 2 arruelas M3
 * 2 M2 de 5 mm de rosca soberba 
-* ???
+
 
 ## Partes Eletrônicas e Outras 
 | Link e Descrição | Qt. | Preço aproximado (R$) |
@@ -95,6 +98,7 @@ Total geral
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 24,00 |
 | [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | ??? | 
 | [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | ??? | 
+| Parafusos e outros |  | 5,00 |
 | Despesas com envio (valor aproximado) | ? | 40,00 | 
 
 O **total** por robô deve ficar em torno de: ???
@@ -120,6 +124,11 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 ![IMG_20220118_153718](https://user-images.githubusercontent.com/19957124/151553139-61bc8037-558f-40ad-805b-245ad1d8cb9a.jpg)
 ![IMG_20220118_153527](https://user-images.githubusercontent.com/19957124/151553151-e24dca6d-e366-47b9-ab49-2fc9561ff498.jpg)
 ![IMG_20211005_220235](https://user-images.githubusercontent.com/19957124/136124638-ddeedd21-5521-4419-a293-521bda014fcc.jpg)
+
+
+## TODO
+
+1. Mudar os parafusos do suporte do ESP32 para M4 de 12 mm 
 
 
 
