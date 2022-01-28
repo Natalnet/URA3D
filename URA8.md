@@ -17,11 +17,12 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * 1 x [Topo do suporte L9110](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/topo%20suporte%20L9110.stl) 
 * 4 x [Suporte Motor DC v4](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20motor.stl)
 * 1 x [Chassis URA](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/chassis.stl) 
-* 1 x [Apoio para baterias](???) 
+* 1 x [Placa URA003](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/PlacaURA003.stl) 
 * 2 x [Suporte sensor de linha - parte A](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20sensor%20de%20linha%20parte%20a.stl) 
 * 2 x [Suporte sensor de linha - parte B](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20sensor%20de%20linha%20parte%20b.stl) 
 * 1 x [Caixa ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/caixa%20ultrassom.stl)
 * 1 x [Tampa da caixa do ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20da%20caixa%20do%20ultrassom.stl)
+* 1 x [Suporte roda boba de metal pequena](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/suporte%20roda%20boba%20pequena%20v3.stl)
  
 #### Editaveis no OnShape
 * [Suporte ESP32](https://cad.onshape.com/documents/da2893e39737269eabcc538f/w/f65fd3e3db945192bb0506ee/e/0dc5e1f2a7eb1b9047fb6555?renderMode=0&uiState=61c1ec8e94f3596b0a02fad9)
