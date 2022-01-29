@@ -90,7 +90,7 @@ Total geral
 | Link e Descrição | Qt. | Preço aproximado (R$) |
 | --- | --- | --- |
 | [20 CM 40 P DuPont cabo fêmea-fêmea, jumpers](https://pt.aliexpress.com/item/32847418999.html) | 1 | 6,00 |
-| [Roda Universal com esfera de aço, roda boba](https://pt.aliexpress.com/item/32855047409.html) | 1 | 5,00 |
+| [Roda Universal com esfera de aço, roda boba](https://pt.aliexpress.com/item/4000995103921.html) | 1 | 5,00 |
 | [ESP32](https://pt.aliexpress.com/item/4000115960206.html) | 1 | 21,00 |  
 | [Motor DC TT de 3 a 12v com Roda](https://pt.aliexpress.com/item/32851946942.html ) | 2 | 18,00 | 
 | [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | 3,00 |
