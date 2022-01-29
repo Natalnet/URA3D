@@ -96,8 +96,8 @@ Total geral
 | [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | 3,00 |
 | [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33048736765.html) | 1 | 6,00 |
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 24,00 |
-| [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | ??? | 
-| [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | ??? | 
+| [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | 10,00 | 
+| [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | 12,00 | 
 | Parafusos e outros |  | 5,00 |
 | Despesas com envio (valor aproximado) | ? | 40,00 | 
 
