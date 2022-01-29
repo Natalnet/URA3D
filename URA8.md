@@ -94,7 +94,7 @@ Total geral
 | [ESP32](https://pt.aliexpress.com/item/4000115960206.html) | 1 | 21,00 |  
 | [Motor DC TT de 3 a 12v com Roda](https://pt.aliexpress.com/item/32851946942.html ) | 2 | 18,00 | 
 | [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | 3,00 |
-| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33048736765.html) | 1 | 6,00 |
+| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33011621183.html) | 1 | 10,00 |
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 24,00 |
 | [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | 10,00 | 
 | [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | 12,00 | 
