@@ -113,10 +113,14 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 
 ## Vídeos 
 
+* [Visão geral das peças do robô URA desmontado](https://youtu.be/LthsH-N7xbM)
+* [Apresentação resumida do hardware do robô educacional URA](https://youtu.be/fhzjdgP7kzs)
 * [URA: Como controlar motores DC com MicroPython e ESP](https://youtu.be/Zrb4ya5w_Og)
 * [IoT: Como gravar o firmware MicroPython no ESP?](https://youtu.be/F11Zw-0OYhw)
 * [Controlando um robô de qualquer lugar do mundo](https://youtu.be/kUujN_RainY)
 * [Controlando vários robôs do URA ao mesmo tempo](https://youtu.be/dd7foZvS9JI)
+* [Versão inicial do software do robô URA para programação com processamento de linguagem natural](https://youtu.be/SiEE2sVo_tg) 
+
 
 ## Mais fotos 
 
