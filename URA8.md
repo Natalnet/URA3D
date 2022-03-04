@@ -33,6 +33,7 @@ Esta versão é construída com ESP32, motor DC e ponte H L9110.
 * [Suporte sensor de linha parte b](https://cad.onshape.com/documents/e259ff6defdef96e8ab41d8b/w/1b109841c4d9736a1870dfb0/e/cd690e71fe9f9e5f9f80e279?renderMode=0&uiState=61c1ea85bb05c5165f0a46c1)
 * [Caixa ultrassom](https://cad.onshape.com/documents/eff211665e8c7836090196e9/w/b42c08b0b75a4629edf96235/e/b35db6d97b250042e3331039?renderMode=0&uiState=61c1e8ba3476d60572ef5c09)
 * [Tampa da caixa do ultrassom](https://cad.onshape.com/documents/69c19290b47989f6532ec43b/w/113850079f3eb17f24106091/e/c47433a3bffd45538d53acae?renderMode=0&uiState=61c1e8233f65835bbfea031d)
+* [Chassis](https://cad.onshape.com/documents/d4e6e460a960e55577234318/w/03fc95d135409c6f6bb04e25/e/dee999fe8a7ed37e128db5aa?renderMode=0&uiState=622296a03e4c6c21c4625733)
 
 ### Parafusos e complementares 
 Entre motores, chassis e suporte ESP32
