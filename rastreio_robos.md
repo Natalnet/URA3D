@@ -2,10 +2,10 @@
 
 * 001 - Aquiles 
 * 002 - Orivaldo
-* 003 - Orivaldo 
+* 003 - Ariel
 * 004 - LAR
-* 005 - 
-* 006
+* 005 - Aquiles
+* 006 - LAR
 * 007 - Orivaldo 
 * 008 - 
 * 009 - 
