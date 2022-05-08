@@ -5,11 +5,18 @@
 * 003 - Ariel
 * 004 - LAR
 * 005 - Aquiles
-* 006 - LAR
+* 006 - Orivaldo/LAR
 * 007 - Orivaldo 
-* 008 - 
-* 009 - 
-* 010 - 
-* 011 - 
-* 012 - 
+* 008 - Elton 
+* 009 - Orivaldo 
+* 010 - Orivaldo 
+* 011 - Elton 
+* 012 - Elton 
 * 013 - 
+* 014 - 
+* 015 - 
+* 016 -
+* 017 - 
+* 018 - 
+* 019 -  
+* 020 - 
