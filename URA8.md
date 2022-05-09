@@ -112,6 +112,7 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 * [Sensor de Linha](https://github.com/Natalnet/lib_ura_esp/blob/master/ESP32/LineSensor/README.md)
 * [Sensor de Distância](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/UltrasonicSensor)
 * [Controle via MQTT](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/MQTTBasicControl) 
+* [Sensor LDR](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/LDR)
 
 
 ## Vídeos 
@@ -123,6 +124,7 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 * [Controlando um robô de qualquer lugar do mundo](https://youtu.be/kUujN_RainY)
 * [Controlando vários robôs do URA ao mesmo tempo](https://youtu.be/dd7foZvS9JI)
 * [Versão inicial do software do robô URA para programação com processamento de linguagem natural](https://youtu.be/SiEE2sVo_tg) 
+* [Sensor LDR](https://youtu.be/Xb-_oG65H2I)
 
 
 ## Mais fotos 
@@ -134,8 +136,11 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 
 
 ## TODO
-
+1. Mudar o tipo de suporte do sensor ultrassônico para porcas 
 1. Mudar os parafusos do suporte do ESP32 para M4 de 12 mm 
+
+## Atualizações realizadas 
+1. Mudar o suporte do ESP32 para porca
 
 
 
