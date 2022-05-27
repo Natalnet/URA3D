@@ -109,7 +109,6 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 
 ## Montagem 
 * [Micro placa de prototipagem com barra de pinos macho](https://youtu.be/HSVTjdACmgk)
-
 * [Preparação dos motores DC](https://youtu.be/uoehkZviNMs)
 * [Montagem dos motores DC](https://youtu.be/0yrsRWZnIXw)
 * [Microcontrolador ESP32](https://youtu.be/Uj372API1Oc)
