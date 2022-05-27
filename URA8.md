@@ -107,6 +107,15 @@ O **total** por robô deve ficar em torno de: 164,00
 
 Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. Uma estratégia é comprar o máximo possível de uma mesma loja ou usar o envio "AliExpress Direct". 
 
+## Montagem 
+* [Micro placa de prototipagem com barra de pinos macho](https://youtu.be/HSVTjdACmgk)
+
+* [Preparação dos motores DC](https://youtu.be/uoehkZviNMs)
+* [Montagem dos motores DC](https://youtu.be/0yrsRWZnIXw)
+* [Microcontrolador ESP32](https://youtu.be/Uj372API1Oc)
+* [Ponte H L9110](https://youtu.be/YrIgXzHNvZM)
+* [Rodas](https://youtu.be/H4GO0C3AfTo)
+
 ## Códigos 
 * [Firmware URA](https://github.com/Natalnet/firmware_ura_iot)
 * [Sensor de Linha](https://github.com/Natalnet/lib_ura_esp/blob/master/ESP32/LineSensor/README.md)
