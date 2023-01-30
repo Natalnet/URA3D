@@ -1,4 +1,4 @@
-solid Onshape
+solid Mesh
   facet normal 1 0 0
     outer loop
       vertex 12 31.2091 6.00445
@@ -11227,4 +11227,4 @@ solid Onshape
       vertex 12 32.0631 3.16322
     endloop
   endfacet
-endsolid Onshape
+endsolid Mesh
