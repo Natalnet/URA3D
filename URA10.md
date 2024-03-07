@@ -9,7 +9,8 @@ Esta versão é construída com Arduino, motor DC e ponte H L298n.
 
 #### STLs: 
 * 1 x [Suporte Arduino](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/suporte%20arduino%20v5.stl) 
-* 1 x [Base do suporte L298n](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/suporte%20l298.stl)
+* 1 x [Base do suporte L9110](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/base%20suporte%20L9110.stl)
+* 1 x [Topo do suporte L9110](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/topo%20suporte%20L9110.stl)
 * 2 x [Suporte Motor DC](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/sup%20lateral%20motor%20dc.stl)
 * 1 x [Chapa URA 7x7](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/chapa%20furos%20geral%207x7%203mm.stl) 
 * 2 x [Tira 7x1](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/chapa%20furos%20geral%207x1%203mm.stl) 
