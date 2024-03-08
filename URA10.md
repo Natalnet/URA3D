@@ -136,7 +136,10 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 ![ura8](https://github.com/Natalnet/URA3D/assets/19957124/90cb3097-cb28-4424-a4f0-622d4dca6935)
 
 ## TODO
-1. Organizar esta página 
+1. Organizar esta página
+2. Organizar a lista de parafusos
+3. Fazer um código de teste para a ponte H L9110
+
  
 
 ## Atualizações realizadas 
