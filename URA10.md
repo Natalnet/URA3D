@@ -34,7 +34,7 @@ Esta versão é construída com Arduino, motor DC e ponte H L9110.
 
 
   
- ![ura8](https://github.com/Natalnet/URA3D/assets/19957124/90cb3097-cb28-4424-a4f0-622d4dca6935)
+
 
 
  
@@ -128,6 +128,8 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 ![ura2](https://github.com/Natalnet/URA3D/assets/19957124/748c913a-47db-491a-bc74-0fb5da0731e1)
 
 ![ura3](https://github.com/Natalnet/URA3D/assets/19957124/eedf451c-3dfe-402a-80d6-325525d6e072)
+
+![ura8](https://github.com/Natalnet/URA3D/assets/19957124/90cb3097-cb28-4424-a4f0-622d4dca6935)
 
 ## TODO
 1. Organizar esta página 
