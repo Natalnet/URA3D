@@ -23,14 +23,16 @@ Esta versão é construída com Arduino, motor DC e ponte H L298n.
 * [Link para acesso da montagem](https://cad.onshape.com/documents/880c63f2cc7943d0957a5179/w/8bfa18de3753c42cd6624e6d/e/4bdecd8a43b304c001c7ee30?renderMode=0&uiState=65ea56d640fe057aaa815583)
 
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee" alt="URA" width="400" >
+
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/972cd2d5-7001-4dbd-98d5-e0937f28fa32" alt="URA" width="400" >
+
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1" alt="URA" width="400" >
+
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5" alt="URA" width="400" >
   
-![Captura de tela 2024-03-07 215209](https://github.com/Natalnet/URA3D/assets/19957124/972cd2d5-7001-4dbd-98d5-e0937f28fa32)
+ 
 
-![Captura de tela 2024-03-07 215142](https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1)
-
-![Captura de tela 2024-03-07 215058](https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5)
-
-![Captura de tela 2024-03-07 215036](https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee)
+ 
 
 * ??
 
