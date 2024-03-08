@@ -3,8 +3,11 @@ Repositório de Peças 3D do URA e especificações básicas.
 
 ## Versão 10
 
-Esta versão é construída com Arduino, motor DC e ponte H L298n. 
- 
+Esta versão é construída com Arduino, motor DC e ponte H L9110.
+<img src="github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4" alt="URA" width="600" >
+
+ ![ura9](https://github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4)
+
 ### Peças 3D 
 
 #### STLs: 
@@ -20,7 +23,7 @@ Esta versão é construída com Arduino, motor DC e ponte H L298n.
  
 #### Editaveis no OnShape
 ##### Montagem
-* [Link para acesso da montagem](https://cad.onshape.com/documents/880c63f2cc7943d0957a5179/w/8bfa18de3753c42cd6624e6d/e/4bdecd8a43b304c001c7ee30?renderMode=0&uiState=65ea56d640fe057aaa815583)
+* [Link para a montagem](https://cad.onshape.com/documents/880c63f2cc7943d0957a5179/w/8bfa18de3753c42cd6624e6d/e/4bdecd8a43b304c001c7ee30?renderMode=0&uiState=65ea56d640fe057aaa815583)
 
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee" alt="URA" width="400" >
 
