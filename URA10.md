@@ -31,8 +31,11 @@ Esta versão é construída com Arduino, motor DC e ponte H L9110.
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1" alt="URA" width="400" >
 
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5" alt="URA" width="400" >
+
+
   
- 
+ ![ura8](https://github.com/Natalnet/URA3D/assets/19957124/90cb3097-cb28-4424-a4f0-622d4dca6935)
+
 
  
 
