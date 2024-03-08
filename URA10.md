@@ -6,7 +6,6 @@ Repositório de Peças 3D do URA e especificações básicas.
 Esta versão é construída com Arduino, motor DC e ponte H L9110.
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4" alt="URA" width="600" >
 
- ![ura9](https://github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4)
 
 ### Peças 3D 
 
@@ -119,8 +118,13 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 
 ## Mais fotos 
 
-![IMG_20220118_153748](https://user-images.githubusercontent.com/19957124/151553109-ad303cdf-7860-4b9b-a59e-0763cf77f7f5.jpg)
- 
+![ura5](https://github.com/Natalnet/URA3D/assets/19957124/3fc865c0-392a-42a7-9222-3b41f7417a46)
+
+![ura4](https://github.com/Natalnet/URA3D/assets/19957124/8f1e1832-6343-4f94-acf2-b7623b39e7b8)
+
+![ura2](https://github.com/Natalnet/URA3D/assets/19957124/748c913a-47db-491a-bc74-0fb5da0731e1)
+
+![ura3](https://github.com/Natalnet/URA3D/assets/19957124/eedf451c-3dfe-402a-80d6-325525d6e072)
 
 ## TODO
 1. Organizar esta página 
