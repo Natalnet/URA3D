@@ -18,6 +18,10 @@ Esta versão é construída com Arduino, motor DC e ponte H L9110.
 * 2 x [Tira 7x1](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/chapa%20furos%20geral%207x1%203mm.stl) 
 * 1 x [Caixa ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/caixa%20ultrassom.stl)
 * 1 x [Tampa da caixa do ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20da%20caixa%20do%20ultrassom.stl)
+* 4 x [Espaçador de 32 mm](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/espa%C3%A7ador%20com%20porca%20-%2032mm.stl)
+* 2 x [Espaçador de 28 mm](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/espa%C3%A7ador%20com%20porca%20-%2028mm.stl)
+* 1 x [Suporte para o sensor de linha](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/sup%20sensor%20linha%203x1.stl)
+* 1 x [Suporte roda boba](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/suporte%20roda%20boba.stl) 
 
  
 #### Editaveis no OnShape
